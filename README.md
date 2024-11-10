@@ -1,5 +1,4 @@
 
-![Logo](https://github.com/yuvrajsingh833/JobPulse/blob/main/assets/logo.png)
 
 
 # JobPulse
@@ -34,7 +33,7 @@ JobPulse simplifies your job application process by keeping all your application
 Clone the project
 
 ```bash
-  git clone git@github.com:https://github.com/yuvrajsingh833/JobPulse
+  git clone git@github.com:https://github.com/namansingh1111/JobPulse
 ```
 
 Go to the project directory
@@ -74,7 +73,7 @@ Refer the `.env.example` file in root directory of the project.
 
 Documentation: https://jobpulse.up.railway.app/docs/
 
-Backend Repository:https://github.com/yuvrajsingh833/JobPulse
+Backend Repository:https://github.com/namansomgh1111/JobPulse
 
 ## Deployment
 
